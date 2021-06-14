@@ -1,0 +1,12 @@
+#h-c {
+    background-color: transparent;
+}
+.header {
+    /* margin-bottom: .5rem; */
+    padding: 1rem;
+    /* background-color: rgb(235, 195, 64); */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
